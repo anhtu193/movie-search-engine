@@ -74,7 +74,7 @@ function Home() {
 
 			{error && <div className="error-message">{error}</div>}
 
-			{isLoading && <div className="loading">Loading...</div>}
+			{/* {isLoading && <div className="loading">Loading...</div>} */}
 			<h2 style={{ marginLeft: "12px" }}>{heading}</h2>
 			<div className="movies-grid">
 				{movies.map((movie) => (

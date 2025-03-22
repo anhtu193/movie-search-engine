@@ -5,7 +5,7 @@
 	background-color: #1a1a1a;
 	transition: transform 0.2s;
 	height: 100%;
-	width: 300px;
+	width: 265px;
 	display: flex;
 	flex-direction: column;
 }
